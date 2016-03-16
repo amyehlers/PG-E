@@ -1,2 +1,2 @@
 # PG-E
-Creating a responsive web application called DASH.
+Thios project is for creating a responsive web application called DASH.
